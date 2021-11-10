@@ -1,0 +1,15 @@
+.stream-offline {
+    background-color:rgb(190, 21, 21);
+    padding:20px;
+    border-radius: 5px;
+    margin-top:15px;
+    color:#fff;
+}
+.offline-name {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size:1.5rem;
+}
+.no-stream {
+    margin-top:10px;
+}

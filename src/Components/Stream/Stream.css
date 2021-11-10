@@ -1,0 +1,26 @@
+.stream-name {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size:1.5rem;
+}
+.stream-current {
+    margin-top:10px;
+}
+.stream-game {
+    font-weight: 500;
+}
+.online {
+    text-decoration: none !important;
+    background-color:rgb(16, 119, 16);;
+    padding:20px;
+    color:#fff;
+    border-radius: 5px;
+    margin-top:20px;
+}
+.stream-link {
+    color:#fff !important;
+    font-style:italic;
+}
+.stream-link:hover {
+    color:rgb(202, 195, 195);
+}
